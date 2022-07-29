@@ -1,0 +1,15 @@
+c:\Users\brenn\source\Alura\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Views\Cadastro\formulario.cshtml
+c:\Users\brenn\source\Alura\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Views\Livros\lista.cshtml
+c:\Users\brenn\source\Alura\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.deps.json
+c:\Users\brenn\source\Alura\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.runtimeconfig.json
+c:\Users\brenn\source\Alura\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.runtimeconfig.dev.json
+c:\Users\brenn\source\Alura\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.dll
+c:\Users\brenn\source\Alura\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.pdb
+c:\Users\brenn\source\Alura\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.csproj.AssemblyReference.cache
+c:\Users\brenn\source\Alura\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\brenn\source\Alura\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.AssemblyInfoInputs.cache
+c:\Users\brenn\source\Alura\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.AssemblyInfo.cs
+c:\Users\brenn\source\Alura\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.csproj.CoreCompileInputs.cache
+c:\Users\brenn\source\Alura\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.dll
+c:\Users\brenn\source\Alura\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.pdb
+c:\Users\brenn\source\Alura\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.genruntimeconfig.cache
